@@ -18,7 +18,7 @@ To write a program to predict the profit of a company using the linear regressio
 ```
 
 ## Program:
-```
+``` py
 Developed by: SHAKTHI SUNDAR K
 RegisterNumber: 212222040152
 
